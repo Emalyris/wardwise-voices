@@ -1,0 +1,552 @@
+{
+ "v": 1,
+ "made": "2026-11-24",
+ "notes": {
+  "CN211|anaemia": {
+   "a": "cn211/anaemia-16865303c611.mp3",
+   "t": "cn211/anaemia-16865303c611.json",
+   "d": 951.0,
+   "title": "Anaemia",
+   "h": "16865303c611"
+  },
+  "CN211|arteriosclerosisandatherosclerosis": {
+   "a": "cn211/arteriosclerosisandatherosclerosis-2a0f07e8a1f9.mp3",
+   "t": "cn211/arteriosclerosisandatherosclerosis-2a0f07e8a1f9.json",
+   "d": 570.9,
+   "title": "Arteriosclerosis and Atherosclerosis",
+   "h": "2a0f07e8a1f9"
+  },
+  "CN211|asthma": {
+   "a": "cn211/asthma-3e8370cd353c.mp3",
+   "t": "cn211/asthma-3e8370cd353c.json",
+   "d": 584.0,
+   "title": "Asthma",
+   "h": "3e8370cd353c"
+  },
+  "CN211|bronchitis": {
+   "a": "cn211/bronchitis-cd1bfd44274c.mp3",
+   "t": "cn211/bronchitis-cd1bfd44274c.json",
+   "d": 1012.3,
+   "title": "Bronchitis",
+   "h": "cd1bfd44274c"
+  },
+  "CN211|classificationofmedicinesandscheduleofcontrolledsubstances": {
+   "a": "cn211/classificationofmedicinesandscheduleofco-e520d4a2996d.mp3",
+   "t": "cn211/classificationofmedicinesandscheduleofco-e520d4a2996d.json",
+   "d": 575.9,
+   "title": "Classification of Medicines and Schedule of controlled substances",
+   "h": "e520d4a2996d"
+  },
+  "CN211|coagulationdisorders": {
+   "a": "cn211/coagulationdisorders-ccb847f3da3f.mp3",
+   "t": "cn211/coagulationdisorders-ccb847f3da3f.json",
+   "d": 680.5,
+   "title": "Coagulation disorders",
+   "h": "ccb847f3da3f"
+  },
+  "CN211|commoncold": {
+   "a": "cn211/commoncold-3f85f9177d2b.mp3",
+   "t": "cn211/commoncold-3f85f9177d2b.json",
+   "d": 627.6,
+   "title": "Common cold",
+   "h": "3f85f9177d2b"
+  },
+  "CN211|conceptsofessentialdrugsandrationalmedicineuse": {
+   "a": "cn211/conceptsofessentialdrugsandrationalmedic-6c7da9bbd25e.mp3",
+   "t": "cn211/conceptsofessentialdrugsandrationalmedic-6c7da9bbd25e.json",
+   "d": 434.3,
+   "title": "Concepts of Essential Drugs and Rational Medicine use",
+   "h": "6c7da9bbd25e"
+  },
+  "CN211|congestivecardiacfailure": {
+   "a": "cn211/congestivecardiacfailure-898334d02dcf.mp3",
+   "t": "cn211/congestivecardiacfailure-898334d02dcf.json",
+   "d": 729.7,
+   "title": "Congestive Cardiac Failure",
+   "h": "898334d02dcf"
+  },
+  "CN211|emphysema": {
+   "a": "cn211/emphysema-bf7f1b5078b3.mp3",
+   "t": "cn211/emphysema-bf7f1b5078b3.json",
+   "d": 665.8,
+   "title": "Emphysema",
+   "h": "bf7f1b5078b3"
+  },
+  "CN211|endocarditis": {
+   "a": "cn211/endocarditis-b8be8909b5c9.mp3",
+   "t": "cn211/endocarditis-b8be8909b5c9.json",
+   "d": 623.2,
+   "title": "Endocarditis",
+   "h": "b8be8909b5c9"
+  },
+  "CN211|generalcausesofdiseaseinthehumanbody": {
+   "a": "cn211/generalcausesofdiseaseinthehumanbody-8d6a3b27fdc8.mp3",
+   "t": "cn211/generalcausesofdiseaseinthehumanbody-8d6a3b27fdc8.json",
+   "d": 902.7,
+   "title": "General causes of disease in the human body",
+   "h": "8d6a3b27fdc8"
+  },
+  "CN211|generalprinciplesofmanagingdisease": {
+   "a": "cn211/generalprinciplesofmanagingdisease-a2e90984d5c0.mp3",
+   "t": "cn211/generalprinciplesofmanagingdisease-a2e90984d5c0.json",
+   "d": 426.1,
+   "title": "General principles of managing disease",
+   "h": "a2e90984d5c0"
+  },
+  "CN211|generalsignsandsymptomsofcardiovasculardisorders": {
+   "a": "cn211/generalsignsandsymptomsofcardiovasculard-7d6a0dde3330.mp3",
+   "t": "cn211/generalsignsandsymptomsofcardiovasculard-7d6a0dde3330.json",
+   "d": 555.5,
+   "title": "General signs and symptoms of Cardiovascular disorders",
+   "h": "7d6a0dde3330"
+  },
+  "CN211|hypertension": {
+   "a": "cn211/hypertension-a9e1d722ad15.mp3",
+   "t": "cn211/hypertension-a9e1d722ad15.json",
+   "d": 659.8,
+   "title": "Hypertension",
+   "h": "a9e1d722ad15"
+  },
+  "CN211|inflammatorydisordersoftheheartandbloodvessels": {
+   "a": "cn211/inflammatorydisordersoftheheartandbloodv-a21d146c2900.mp3",
+   "t": "cn211/inflammatorydisordersoftheheartandbloodv-a21d146c2900.json",
+   "d": 501.0,
+   "title": "Inflammatory disorders of the Heart and Blood Vessels",
+   "h": "a21d146c2900"
+  },
+  "CN211|influenza": {
+   "a": "cn211/influenza-1e5365f35ddf.mp3",
+   "t": "cn211/influenza-1e5365f35ddf.json",
+   "d": 596.3,
+   "title": "Influenza",
+   "h": "1e5365f35ddf"
+  },
+  "CN211|laryngitis": {
+   "a": "cn211/laryngitis-6bd0c0f0f21d.mp3",
+   "t": "cn211/laryngitis-6bd0c0f0f21d.json",
+   "d": 1078.0,
+   "title": "Laryngitis",
+   "h": "6bd0c0f0f21d"
+  },
+  "CN211|leukemia": {
+   "a": "cn211/leukemia-836195158cf0.mp3",
+   "t": "cn211/leukemia-836195158cf0.json",
+   "d": 550.8,
+   "title": "Leukemia",
+   "h": "836195158cf0"
+  },
+  "CN211|levelsofdiseaseprevention": {
+   "a": "cn211/levelsofdiseaseprevention-c0227cb96592.mp3",
+   "t": "cn211/levelsofdiseaseprevention-c0227cb96592.json",
+   "d": 923.7,
+   "title": "Levels of disease prevention",
+   "h": "c0227cb96592"
+  },
+  "CN211|myocarditis": {
+   "a": "cn211/myocarditis-3d7efc403200.mp3",
+   "t": "cn211/myocarditis-3d7efc403200.json",
+   "d": 594.7,
+   "title": "Myocarditis",
+   "h": "3d7efc403200"
+  },
+  "CN211|otitismedia": {
+   "a": "cn211/otitismedia-c3bc5c1b9096.mp3",
+   "t": "cn211/otitismedia-c3bc5c1b9096.json",
+   "d": 701.8,
+   "title": "Otitis Media",
+   "h": "c3bc5c1b9096"
+  },
+  "CN211|pericarditis": {
+   "a": "cn211/pericarditis-388bcd281f13.mp3",
+   "t": "cn211/pericarditis-388bcd281f13.json",
+   "d": 560.3,
+   "title": "Pericarditis",
+   "h": "388bcd281f13"
+  },
+  "CN211|pharmacokineticsandpharmacodynamics": {
+   "a": "cn211/pharmacokineticsandpharmacodynamics-53585978eea1.mp3",
+   "t": "cn211/pharmacokineticsandpharmacodynamics-53585978eea1.json",
+   "d": 458.2,
+   "title": "Pharmacokinetics and Pharmacodynamics",
+   "h": "53585978eea1"
+  },
+  "CN211|pharyngitis": {
+   "a": "cn211/pharyngitis-493f0c45dec0.mp3",
+   "t": "cn211/pharyngitis-493f0c45dec0.json",
+   "d": 554.5,
+   "title": "Pharyngitis",
+   "h": "493f0c45dec0"
+  },
+  "CN211|pneumonia": {
+   "a": "cn211/pneumonia-a869c48dd94d.mp3",
+   "t": "cn211/pneumonia-a869c48dd94d.json",
+   "d": 675.7,
+   "title": "Pneumonia",
+   "h": "a869c48dd94d"
+  },
+  "CN211|rheumaticheartdisease": {
+   "a": "cn211/rheumaticheartdisease-a263c382e517.mp3",
+   "t": "cn211/rheumaticheartdisease-a263c382e517.json",
+   "d": 526.1,
+   "title": "Rheumatic Heart Disease",
+   "h": "a263c382e517"
+  },
+  "CN211|sinusitis": {
+   "a": "cn211/sinusitis-becba89b74a4.mp3",
+   "t": "cn211/sinusitis-becba89b74a4.json",
+   "d": 557.1,
+   "title": "Sinusitis",
+   "h": "becba89b74a4"
+  },
+  "CN211|termsusedinmedicalnursing": {
+   "a": "cn211/termsusedinmedicalnursing-bf4c48462f95.mp3",
+   "t": "cn211/termsusedinmedicalnursing-bf4c48462f95.json",
+   "d": 742.1,
+   "title": "Terms used in Medical Nursing",
+   "h": "bf4c48462f95"
+  },
+  "CN211|termsusedinpharmacology": {
+   "a": "cn211/termsusedinpharmacology-15ad2ae93790.mp3",
+   "t": "cn211/termsusedinpharmacology-15ad2ae93790.json",
+   "d": 701.6,
+   "title": "Terms used in Pharmacology",
+   "h": "15ad2ae93790"
+  },
+  "CN211|thrombusandembolus": {
+   "a": "cn211/thrombusandembolus-579d7c637991.mp3",
+   "t": "cn211/thrombusandembolus-579d7c637991.json",
+   "d": 826.4,
+   "title": "Thrombus and Embolus",
+   "h": "579d7c637991"
+  },
+  "CN211|tonsillitis": {
+   "a": "cn211/tonsillitis-59803a69ef88.mp3",
+   "t": "cn211/tonsillitis-59803a69ef88.json",
+   "d": 620.7,
+   "title": "Tonsillitis",
+   "h": "59803a69ef88"
+  },
+  "CN211|tuberculosis": {
+   "a": "cn211/tuberculosis-bb39a6243ae3.mp3",
+   "t": "cn211/tuberculosis-bb39a6243ae3.json",
+   "d": 817.4,
+   "title": "Tuberculosis",
+   "h": "bb39a6243ae3"
+  },
+  "CN212|abortion": {
+   "a": "cn212/abortion-93512bc16b99.mp3",
+   "t": "cn212/abortion-93512bc16b99.json",
+   "d": 475.9,
+   "title": "Abortion",
+   "h": "93512bc16b99"
+  },
+  "CN212|anthrax": {
+   "a": "cn212/anthrax-2bf90e364582.mp3",
+   "t": "cn212/anthrax-2bf90e364582.json",
+   "d": 492.5,
+   "title": "Anthrax",
+   "h": "2bf90e364582"
+  },
+  "CN212|aseptictechnique": {
+   "a": "cn212/aseptictechnique-96bb94413233.mp3",
+   "t": "cn212/aseptictechnique-96bb94413233.json",
+   "d": 420.6,
+   "title": "Aseptic technique",
+   "h": "96bb94413233"
+  },
+  "CN212|bloodtransfusion": {
+   "a": "cn212/bloodtransfusion-9cdeab92c119.mp3",
+   "t": "cn212/bloodtransfusion-9cdeab92c119.json",
+   "d": 727.9,
+   "title": "Blood Transfusion",
+   "h": "9cdeab92c119"
+  },
+  "CN212|burns": {
+   "a": "cn212/burns-3c345f3700a2.mp3",
+   "t": "cn212/burns-3c345f3700a2.json",
+   "d": 1437.6,
+   "title": "Burns",
+   "h": "3c345f3700a2"
+  },
+  "CN212|cancersofreproductivehealthorgansbreastcervixuterusovaries": {
+   "a": "cn212/cancersofreproductivehealthorgansbreastc-6bead26bad9a.mp3",
+   "t": "cn212/cancersofreproductivehealthorgansbreastc-6bead26bad9a.json",
+   "d": 827.1,
+   "title": "Cancers of Reproductive Health Organs (Breast, Cervix, Uterus, Ovaries)",
+   "h": "6bead26bad9a"
+  },
+  "CN212|cervicalerosiontraumaandpolyps": {
+   "a": "cn212/cervicalerosiontraumaandpolyps-064c57f70e8d.mp3",
+   "t": "cn212/cervicalerosiontraumaandpolyps-064c57f70e8d.json",
+   "d": 691.1,
+   "title": "Cervical erosion, trauma and polyps",
+   "h": "064c57f70e8d"
+  },
+  "CN212|ectopicpregnancy": {
+   "a": "cn212/ectopicpregnancy-bb44768f86cf.mp3",
+   "t": "cn212/ectopicpregnancy-bb44768f86cf.json",
+   "d": 542.8,
+   "title": "Ectopic Pregnancy",
+   "h": "bb44768f86cf"
+  },
+  "CN212|fluidsandelectrolyteimbalance": {
+   "a": "cn212/fluidsandelectrolyteimbalance-6e53243dd405.mp3",
+   "t": "cn212/fluidsandelectrolyteimbalance-6e53243dd405.json",
+   "d": 845.1,
+   "title": "Fluids and Electrolyte Imbalance",
+   "h": "6e53243dd405"
+  },
+  "CN212|fractures": {
+   "a": "cn212/fractures-9596f6c6ad19.mp3",
+   "t": "cn212/fractures-9596f6c6ad19.json",
+   "d": 650.6,
+   "title": "Fractures",
+   "h": "9596f6c6ad19"
+  },
+  "CN212|gangrene": {
+   "a": "cn212/gangrene-6ccd17cddb81.mp3",
+   "t": "cn212/gangrene-6ccd17cddb81.json",
+   "d": 1229.2,
+   "title": "Gangrene",
+   "h": "6ccd17cddb81"
+  },
+  "CN212|hemorrhage": {
+   "a": "cn212/hemorrhage-4ee0e64331ea.mp3",
+   "t": "cn212/hemorrhage-4ee0e64331ea.json",
+   "d": 1311.3,
+   "title": "Hemorrhage",
+   "h": "4ee0e64331ea"
+  },
+  "CN212|historyofsurgery": {
+   "a": "cn212/historyofsurgery-030b59b1a50c.mp3",
+   "t": "cn212/historyofsurgery-030b59b1a50c.json",
+   "d": 433.2,
+   "title": "History of surgery",
+   "h": "030b59b1a50c"
+  },
+  "CN212|immunity": {
+   "a": "cn212/immunity-bd44bbe65e04.mp3",
+   "t": "cn212/immunity-bd44bbe65e04.json",
+   "d": 671.1,
+   "title": "Immunity",
+   "h": "bd44bbe65e04"
+  },
+  "CN212|infertility": {
+   "a": "cn212/infertility-c53a8fecb81a.mp3",
+   "t": "cn212/infertility-c53a8fecb81a.json",
+   "d": 739.4,
+   "title": "Infertility",
+   "h": "c53a8fecb81a"
+  },
+  "CN212|inflammation": {
+   "a": "cn212/inflammation-799c35679da2.mp3",
+   "t": "cn212/inflammation-799c35679da2.json",
+   "d": 634.1,
+   "title": "Inflammation",
+   "h": "799c35679da2"
+  },
+  "CN212|intraoperativecare": {
+   "a": "cn212/intraoperativecare-1307e0cbb91d.mp3",
+   "t": "cn212/intraoperativecare-1307e0cbb91d.json",
+   "d": 633.2,
+   "title": "Intra-operative Care",
+   "h": "1307e0cbb91d"
+  },
+  "CN212|introductiontosurgicalnursing": {
+   "a": "cn212/introductiontosurgicalnursing-22107680b6cf.mp3",
+   "t": "cn212/introductiontosurgicalnursing-22107680b6cf.json",
+   "d": 470.8,
+   "title": "Introduction to surgical Nursing",
+   "h": "22107680b6cf"
+  },
+  "CN212|menstruationdisorders": {
+   "a": "cn212/menstruationdisorders-6439cb179466.mp3",
+   "t": "cn212/menstruationdisorders-6439cb179466.json",
+   "d": 681.1,
+   "title": "Menstruation disorders",
+   "h": "6439cb179466"
+  },
+  "CN212|naturalbodydefensemechanisms": {
+   "a": "cn212/naturalbodydefensemechanisms-9055f91771ed.mp3",
+   "t": "cn212/naturalbodydefensemechanisms-9055f91771ed.json",
+   "d": 591.3,
+   "title": "Natural body defense mechanisms",
+   "h": "9055f91771ed"
+  },
+  "CN212|pelvicinflammatorydiseases": {
+   "a": "cn212/pelvicinflammatorydiseases-111b4a3eb6d3.mp3",
+   "t": "cn212/pelvicinflammatorydiseases-111b4a3eb6d3.json",
+   "d": 576.5,
+   "title": "Pelvic Inflammatory Diseases",
+   "h": "111b4a3eb6d3"
+  },
+  "CN212|postoperativecare": {
+   "a": "cn212/postoperativecare-dd9864c50c2f.mp3",
+   "t": "cn212/postoperativecare-dd9864c50c2f.json",
+   "d": 649.1,
+   "title": "Post-operative Care",
+   "h": "dd9864c50c2f"
+  },
+  "CN212|preoperativecare": {
+   "a": "cn212/preoperativecare-ce7076a45cba.mp3",
+   "t": "cn212/preoperativecare-ce7076a45cba.json",
+   "d": 1014.6,
+   "title": "Pre-Operative Care",
+   "h": "ce7076a45cba"
+  },
+  "CN212|specialinvestigationsinsurgicalnursing": {
+   "a": "cn212/specialinvestigationsinsurgicalnursing-07430f678b53.mp3",
+   "t": "cn212/specialinvestigationsinsurgicalnursing-07430f678b53.json",
+   "d": 562.7,
+   "title": "Special investigations in surgical nursing",
+   "h": "07430f678b53"
+  },
+  "CN212|surgicalshock": {
+   "a": "cn212/surgicalshock-44fee3b440bd.mp3",
+   "t": "cn212/surgicalshock-44fee3b440bd.json",
+   "d": 1067.3,
+   "title": "Surgical Shock",
+   "h": "44fee3b440bd"
+  },
+  "CN212|termsusedinsurgicalnursing": {
+   "a": "cn212/termsusedinsurgicalnursing-d0e520625049.mp3",
+   "t": "cn212/termsusedinsurgicalnursing-d0e520625049.json",
+   "d": 463.6,
+   "title": "Terms used in surgical nursing",
+   "h": "d0e520625049"
+  },
+  "CN212|tetanus": {
+   "a": "cn212/tetanus-d538c7296485.mp3",
+   "t": "cn212/tetanus-d538c7296485.json",
+   "d": 748.2,
+   "title": "Tetanus",
+   "h": "d538c7296485"
+  },
+  "CN212|tumors": {
+   "a": "cn212/tumors-92ab9540ef35.mp3",
+   "t": "cn212/tumors-92ab9540ef35.json",
+   "d": 601.0,
+   "title": "Tumors",
+   "h": "92ab9540ef35"
+  },
+  "CN212|vesicovaginalfistulavvfandrectovaginalfistularvf": {
+   "a": "cn212/vesicovaginalfistulavvfandrectovaginalfi-9fb49df03c7d.mp3",
+   "t": "cn212/vesicovaginalfistulavvfandrectovaginalfi-9fb49df03c7d.json",
+   "d": 709.6,
+   "title": "Vesico-Vaginal Fistula (VVF) and Recto-Vaginal fistula (RVF)",
+   "h": "9fb49df03c7d"
+  },
+  "CN212|wounds": {
+   "a": "cn212/wounds-2fe31b5c7b68.mp3",
+   "t": "cn212/wounds-2fe31b5c7b68.json",
+   "d": 577.7,
+   "title": "Wounds",
+   "h": "2fe31b5c7b68"
+  },
+  "CN213|bereavement": {
+   "a": "cn213/bereavement-c84307b38247.mp3",
+   "t": "cn213/bereavement-c84307b38247.json",
+   "d": 1075.6,
+   "title": "Bereavement",
+   "h": "c84307b38247"
+  },
+  "CN213|breastfeedinganditseffectsonchildgrowthanddevelopment": {
+   "a": "cn213/breastfeedinganditseffectsonchildgrowtha-343837669585.mp3",
+   "t": "cn213/breastfeedinganditseffectsonchildgrowtha-343837669585.json",
+   "d": 941.1,
+   "title": "Breastfeeding and its effects on child growth and development",
+   "h": "343837669585"
+  },
+  "CN213|careofthenewborn": {
+   "a": "cn213/careofthenewborn-31dca58a724e.mp3",
+   "t": "cn213/careofthenewborn-31dca58a724e.json",
+   "d": 717.8,
+   "title": "Care of the new born",
+   "h": "31dca58a724e"
+  },
+  "CN213|childgrowthanddevelopment": {
+   "a": "cn213/childgrowthanddevelopment-d04ca4309ed0.mp3",
+   "t": "cn213/childgrowthanddevelopment-d04ca4309ed0.json",
+   "d": 728.5,
+   "title": "Child growth and development",
+   "h": "d04ca4309ed0"
+  },
+  "CN213|childhealthandnutrition": {
+   "a": "cn213/childhealthandnutrition-780d1fff756d.mp3",
+   "t": "cn213/childhealthandnutrition-780d1fff756d.json",
+   "d": 1272.4,
+   "title": "Child health and nutrition",
+   "h": "780d1fff756d"
+  },
+  "CN213|communicationprocess": {
+   "a": "cn213/communicationprocess-2fa34ffc5669.mp3",
+   "t": "cn213/communicationprocess-2fa34ffc5669.json",
+   "d": 1153.0,
+   "title": "Communication process",
+   "h": "2fa34ffc5669"
+  },
+  "CN213|deathanddying": {
+   "a": "cn213/deathanddying-b1f496ce87de.mp3",
+   "t": "cn213/deathanddying-b1f496ce87de.json",
+   "d": 1429.7,
+   "title": "Death and dying",
+   "h": "b1f496ce87de"
+  },
+  "CN213|growthmonitoringandpromotion": {
+   "a": "cn213/growthmonitoringandpromotion-bc09905616de.mp3",
+   "t": "cn213/growthmonitoringandpromotion-bc09905616de.json",
+   "d": 770.6,
+   "title": "Growth Monitoring and Promotion",
+   "h": "bc09905616de"
+  },
+  "CN213|hospiceconcept": {
+   "a": "cn213/hospiceconcept-deaeef9a84d1.mp3",
+   "t": "cn213/hospiceconcept-deaeef9a84d1.json",
+   "d": 997.5,
+   "title": "Hospice concept",
+   "h": "deaeef9a84d1"
+  },
+  "CN213|introductiontopaediatrics": {
+   "a": "cn213/introductiontopaediatrics-8b711d409766.mp3",
+   "t": "cn213/introductiontopaediatrics-8b711d409766.json",
+   "d": 945.8,
+   "title": "Introduction to Paediatrics",
+   "h": "8b711d409766"
+  },
+  "CN213|malnutritioninchildren": {
+   "a": "cn213/malnutritioninchildren-1b4f9fdb9efa.mp3",
+   "t": "cn213/malnutritioninchildren-1b4f9fdb9efa.json",
+   "d": 859.4,
+   "title": "Malnutrition in children",
+   "h": "1b4f9fdb9efa"
+  },
+  "CN213|painandpaincontrol": {
+   "a": "cn213/painandpaincontrol-08bcc7344377.mp3",
+   "t": "cn213/painandpaincontrol-08bcc7344377.json",
+   "d": 1293.7,
+   "title": "Pain and pain control",
+   "h": "08bcc7344377"
+  },
+  "CN213|psychosocialsupporttoterminallyillpatients": {
+   "a": "cn213/psychosocialsupporttoterminallyillpatien-bb50ae6c0fad.mp3",
+   "t": "cn213/psychosocialsupporttoterminallyillpatien-bb50ae6c0fad.json",
+   "d": 1350.1,
+   "title": "Psychosocial support to terminally ill patients",
+   "h": "bb50ae6c0fad"
+  },
+  "CN213|spiritualneedsincancerandaidspatients": {
+   "a": "cn213/spiritualneedsincancerandaidspatients-a104f9a16d9a.mp3",
+   "t": "cn213/spiritualneedsincancerandaidspatients-a104f9a16d9a.json",
+   "d": 1096.5,
+   "title": "Spiritual needs in cancer and AIDS patients",
+   "h": "a104f9a16d9a"
+  },
+  "CN213|symptomandsymptomcontrol": {
+   "a": "cn213/symptomandsymptomcontrol-681b43ac7b08.mp3",
+   "t": "cn213/symptomandsymptomcontrol-681b43ac7b08.json",
+   "d": 1503.1,
+   "title": "Symptom and symptom control",
+   "h": "681b43ac7b08"
+  }
+ }
+}
