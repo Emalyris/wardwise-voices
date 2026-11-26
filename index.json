@@ -1,6 +1,6 @@
 {
  "v": 1,
- "made": "2026-11-24",
+ "made": "2026-11-25",
  "notes": {
   "CN211|anaemia": {
    "a": "cn211/anaemia-16865303c611.mp3",
@@ -547,6 +547,286 @@
    "d": 1503.1,
    "title": "Symptom and symptom control",
    "h": "681b43ac7b08"
+  },
+  "CN221|analgesics": {
+   "a": "cn221/analgesics-a365f98cf451.mp3",
+   "t": "cn221/analgesics-a365f98cf451.json",
+   "d": 402.9,
+   "title": "Analgesics",
+   "h": "a365f98cf451"
+  },
+  "CN221|antibiotics": {
+   "a": "cn221/antibiotics-a3829ef0be43.mp3",
+   "t": "cn221/antibiotics-a3829ef0be43.json",
+   "d": 871.1,
+   "title": "Antibiotics",
+   "h": "a3829ef0be43"
+  },
+  "CN221|antifungalagents": {
+   "a": "cn221/antifungalagents-f3be8f32fed6.mp3",
+   "t": "cn221/antifungalagents-f3be8f32fed6.json",
+   "d": 679.6,
+   "title": "Antifungal agents",
+   "h": "f3be8f32fed6"
+  },
+  "CN221|antihelminths": {
+   "a": "cn221/antihelminths-5b3ac8fcc5ee.mp3",
+   "t": "cn221/antihelminths-5b3ac8fcc5ee.json",
+   "d": 643.2,
+   "title": "Anti-Helminths",
+   "h": "5b3ac8fcc5ee"
+  },
+  "CN221|antineoplasticagents": {
+   "a": "cn221/antineoplasticagents-2d6de396d60d.mp3",
+   "t": "cn221/antineoplasticagents-2d6de396d60d.json",
+   "d": 442.7,
+   "title": "Anti-neoplastic agents",
+   "h": "2d6de396d60d"
+  },
+  "CN221|antituberculousagents": {
+   "a": "cn221/antituberculousagents-7593ffb4a210.mp3",
+   "t": "cn221/antituberculousagents-7593ffb4a210.json",
+   "d": 682.2,
+   "title": "Anti-Tuberculous agents",
+   "h": "7593ffb4a210"
+  },
+  "CN221|arvs": {
+   "a": "cn221/arvs-14bd323d7913.mp3",
+   "t": "cn221/arvs-14bd323d7913.json",
+   "d": 746.5,
+   "title": "ARVs",
+   "h": "14bd323d7913"
+  },
+  "CN221|cardiovascular": {
+   "a": "cn221/cardiovascular-3638d62dbd77.mp3",
+   "t": "cn221/cardiovascular-3638d62dbd77.json",
+   "d": 698.9,
+   "title": "Cardiovascular",
+   "h": "3638d62dbd77"
+  },
+  "CN221|centralnervoussystemmedicines": {
+   "a": "cn221/centralnervoussystemmedicines-dfb664568a2e.mp3",
+   "t": "cn221/centralnervoussystemmedicines-dfb664568a2e.json",
+   "d": 458.8,
+   "title": "Central Nervous System medicines",
+   "h": "dfb664568a2e"
+  },
+  "CN221|cerebralvascularaccidentsstroke": {
+   "a": "cn221/cerebralvascularaccidentsstroke-7a9c9fcf5943.mp3",
+   "t": "cn221/cerebralvascularaccidentsstroke-7a9c9fcf5943.json",
+   "d": 866.5,
+   "title": "Cerebral vascular accidents (Stroke)",
+   "h": "7a9c9fcf5943"
+  },
+  "CN221|cholecystitis": {
+   "a": "cn221/cholecystitis-89de24a4e4cc.mp3",
+   "t": "cn221/cholecystitis-89de24a4e4cc.json",
+   "d": 2303.1,
+   "title": "Cholecystitis",
+   "h": "89de24a4e4cc"
+  },
+  "CN221|cystitis": {
+   "a": "cn221/cystitis-28a2c8be0b59.mp3",
+   "t": "cn221/cystitis-28a2c8be0b59.json",
+   "d": 691.6,
+   "title": "Cystitis",
+   "h": "28a2c8be0b59"
+  },
+  "CN221|dermatologicalmedicines": {
+   "a": "cn221/dermatologicalmedicines-bda9dcd5af5f.mp3",
+   "t": "cn221/dermatologicalmedicines-bda9dcd5af5f.json",
+   "d": 410.0,
+   "title": "Dermatological medicines",
+   "h": "bda9dcd5af5f"
+  },
+  "CN221|diabetesmellitus": {
+   "a": "cn221/diabetesmellitus-f0ffd6e37995.mp3",
+   "t": "cn221/diabetesmellitus-f0ffd6e37995.json",
+   "d": 1122.2,
+   "title": "Diabetes Mellitus",
+   "h": "f0ffd6e37995"
+  },
+  "CN221|encephalitis": {
+   "a": "cn221/encephalitis-33c1958c09b4.mp3",
+   "t": "cn221/encephalitis-33c1958c09b4.json",
+   "d": 740.4,
+   "title": "Encephalitis",
+   "h": "33c1958c09b4"
+  },
+  "CN221|endocrinesystemmedicines": {
+   "a": "cn221/endocrinesystemmedicines-a060c779d0ca.mp3",
+   "t": "cn221/endocrinesystemmedicines-a060c779d0ca.json",
+   "d": 424.1,
+   "title": "Endocrine system medicines",
+   "h": "a060c779d0ca"
+  },
+  "CN221|gastritis": {
+   "a": "cn221/gastritis-60965be42bc9.mp3",
+   "t": "cn221/gastritis-60965be42bc9.json",
+   "d": 625.8,
+   "title": "Gastritis",
+   "h": "60965be42bc9"
+  },
+  "CN221|gastrointestinal": {
+   "a": "cn221/gastrointestinal-9ef3f24d60ae.mp3",
+   "t": "cn221/gastrointestinal-9ef3f24d60ae.json",
+   "d": 647.1,
+   "title": "Gastro intestinal",
+   "h": "9ef3f24d60ae"
+  },
+  "CN221|generalsignsandsymptomsofthenervoussystemdisorders": {
+   "a": "cn221/generalsignsandsymptomsofthenervoussyste-426c52816238.mp3",
+   "t": "cn221/generalsignsandsymptomsofthenervoussyste-426c52816238.json",
+   "d": 740.4,
+   "title": "General signs and symptoms of the nervous system disorders",
+   "h": "426c52816238"
+  },
+  "CN221|glomerulonephritis": {
+   "a": "cn221/glomerulonephritis-51d8ca0da077.mp3",
+   "t": "cn221/glomerulonephritis-51d8ca0da077.json",
+   "d": 693.9,
+   "title": "Glomerulonephritis",
+   "h": "51d8ca0da077"
+  },
+  "CN221|hematologicalmedicines": {
+   "a": "cn221/hematologicalmedicines-21e3b8b85b74.mp3",
+   "t": "cn221/hematologicalmedicines-21e3b8b85b74.json",
+   "d": 429.2,
+   "title": "Hematological medicines",
+   "h": "21e3b8b85b74"
+  },
+  "CN221|hepatitis": {
+   "a": "cn221/hepatitis-a4e8fb500863.mp3",
+   "t": "cn221/hepatitis-a4e8fb500863.json",
+   "d": 966.6,
+   "title": "Hepatitis",
+   "h": "a4e8fb500863"
+  },
+  "CN221|jaundice": {
+   "a": "cn221/jaundice-3d4b1e664bd1.mp3",
+   "t": "cn221/jaundice-3d4b1e664bd1.json",
+   "d": 576.9,
+   "title": "Jaundice",
+   "h": "3d4b1e664bd1"
+  },
+  "CN221|livercirrhosis": {
+   "a": "cn221/livercirrhosis-aa1b4b8bc302.mp3",
+   "t": "cn221/livercirrhosis-aa1b4b8bc302.json",
+   "d": 729.9,
+   "title": "Liver Cirrhosis",
+   "h": "aa1b4b8bc302"
+  },
+  "CN221|medicinesactingonspecificorganseyeearsnosethroat": {
+   "a": "cn221/medicinesactingonspecificorganseyeearsno-29e8037fb06a.mp3",
+   "t": "cn221/medicinesactingonspecificorganseyeearsno-29e8037fb06a.json",
+   "d": 421.7,
+   "title": "Medicines acting on specific organs, eye, ears, nose, throat",
+   "h": "29e8037fb06a"
+  },
+  "CN221|meningitis": {
+   "a": "cn221/meningitis-4f15019586ae.mp3",
+   "t": "cn221/meningitis-4f15019586ae.json",
+   "d": 841.6,
+   "title": "Meningitis",
+   "h": "4f15019586ae"
+  },
+  "CN221|nephroticsyndrome": {
+   "a": "cn221/nephroticsyndrome-1a8a11fe282f.mp3",
+   "t": "cn221/nephroticsyndrome-1a8a11fe282f.json",
+   "d": 658.5,
+   "title": "Nephrotic syndrome",
+   "h": "1a8a11fe282f"
+  },
+  "CN221|pepticulcerdisease": {
+   "a": "cn221/pepticulcerdisease-00a4e317fc09.mp3",
+   "t": "cn221/pepticulcerdisease-00a4e317fc09.json",
+   "d": 780.1,
+   "title": "Peptic Ulcer Disease",
+   "h": "00a4e317fc09"
+  },
+  "CN221|poliomyelitis": {
+   "a": "cn221/poliomyelitis-5588f476bd17.mp3",
+   "t": "cn221/poliomyelitis-5588f476bd17.json",
+   "d": 676.5,
+   "title": "Poliomyelitis",
+   "h": "5588f476bd17"
+  },
+  "CN221|pyelonephritis": {
+   "a": "cn221/pyelonephritis-c35b55a46933.mp3",
+   "t": "cn221/pyelonephritis-c35b55a46933.json",
+   "d": 633.7,
+   "title": "Pyelonephritis",
+   "h": "c35b55a46933"
+  },
+  "CN221|quinolonesfluoroquinolones": {
+   "a": "cn221/quinolonesfluoroquinolones-840722c9e2a1.mp3",
+   "t": "cn221/quinolonesfluoroquinolones-840722c9e2a1.json",
+   "d": 522.0,
+   "title": "Quinolones (Fluoroquinolones)",
+   "h": "840722c9e2a1"
+  },
+  "CN221|renalfailure": {
+   "a": "cn221/renalfailure-a8942b3587b5.mp3",
+   "t": "cn221/renalfailure-a8942b3587b5.json",
+   "d": 949.0,
+   "title": "Renal failure",
+   "h": "a8942b3587b5"
+  },
+  "CN221|respiratorysystem": {
+   "a": "cn221/respiratorysystem-9ba9e03f7e3a.mp3",
+   "t": "cn221/respiratorysystem-9ba9e03f7e3a.json",
+   "d": 634.6,
+   "title": "Respiratory system",
+   "h": "9ba9e03f7e3a"
+  },
+  "CN221|reviewofanatomyandphysiologyofthegitract": {
+   "a": "cn221/reviewofanatomyandphysiologyofthegitract-23db24f09906.mp3",
+   "t": "cn221/reviewofanatomyandphysiologyofthegitract-23db24f09906.json",
+   "d": 706.6,
+   "title": "Review of Anatomy and physiology of the GI Tract",
+   "h": "23db24f09906"
+  },
+  "CN221|reviewofanatomyandphysiologyofurinarysystem": {
+   "a": "cn221/reviewofanatomyandphysiologyofurinarysys-080120683526.mp3",
+   "t": "cn221/reviewofanatomyandphysiologyofurinarysys-080120683526.json",
+   "d": 952.3,
+   "title": "Review of Anatomy and physiology of urinary system",
+   "h": "080120683526"
+  },
+  "CN221|stomatitis": {
+   "a": "cn221/stomatitis-ce46cc5876f7.mp3",
+   "t": "cn221/stomatitis-ce46cc5876f7.json",
+   "d": 702.6,
+   "title": "Stomatitis",
+   "h": "ce46cc5876f7"
+  },
+  "CN221|thyrotoxicosis": {
+   "a": "cn221/thyrotoxicosis-cee2c19e1aab.mp3",
+   "t": "cn221/thyrotoxicosis-cee2c19e1aab.json",
+   "d": 808.9,
+   "title": "Thyrotoxicosis",
+   "h": "cee2c19e1aab"
+  },
+  "CN221|unconsciousnesscoma": {
+   "a": "cn221/unconsciousnesscoma-00e4787db1be.mp3",
+   "t": "cn221/unconsciousnesscoma-00e4787db1be.json",
+   "d": 663.5,
+   "title": "Unconsciousness (Coma)",
+   "h": "00e4787db1be"
+  },
+  "CN221|urethritis": {
+   "a": "cn221/urethritis-d432c752978f.mp3",
+   "t": "cn221/urethritis-d432c752978f.json",
+   "d": 686.8,
+   "title": "Urethritis",
+   "h": "d432c752978f"
+  },
+  "CN221|urinarysystem": {
+   "a": "cn221/urinarysystem-df499ab1afbd.mp3",
+   "t": "cn221/urinarysystem-df499ab1afbd.json",
+   "d": 348.9,
+   "title": "Urinary system",
+   "h": "df499ab1afbd"
   }
  }
 }
